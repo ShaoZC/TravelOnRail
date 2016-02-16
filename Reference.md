@@ -19,5 +19,6 @@
 
 * 世界迷雾app http://zh-hant.fogofworld.com/
 
+* Wallet(iOS) https://support.apple.com/en-hk/HT204003
 
 
