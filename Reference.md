@@ -11,8 +11,8 @@
 * 中国火车地图 http://ren-chang.github.io/SlippyRailMapCn/
 
 * 海子铁路网 http://bbs.hasea.com/index.php
-
-
+* scatwang 中国铁路地图（已停止维护） http://railmap.cn yupiao.info 
+* 我们的火车站 http://www.trainfanz.com
 * 铁路之家 http://www.aitielu.com/ 
 
 * 高铁管家
